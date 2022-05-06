@@ -1,0 +1,3 @@
+1) skils1 - job
+2) skils2 - gitbash
+3) skils3 - github
